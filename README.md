@@ -1,5 +1,4 @@
-# Towards a Flood Navigation and Safety Decision Support Tool  
-## A Pilot for Emergency Responders in Travis County, Texas
+# Towards a Flood Navigation and Safety Decision Support Tool: A Pilot for Emergency Responders in Travis County, Texas 
 
 ### Authors
 - **Kayode Adebayo**  
@@ -30,11 +29,7 @@
 
 ### Summary
 
-In this study, we demonstrate a pipeline for distilling hydrologic forecasts to the county level for emergency responders using an operational decision support tool: **FLO-NAVSAFE**.
-
-By combining short-range forecasts from the **National Water Model (NWM)** with the **Height Above Nearest Drainage (HAND)** method, FLO-NAVSAFE generates **flood inundation maps (FIMs)** for near real-time, 1-, 2-, and 10-hour forecast horizons.
-
-Flood inundation uncertainty is addressed using **time-lagged ensembles** of NWM short-range forecasts, offering both **most-likely** and **worst-case** scenarios to better reflect operational risk.
+In this study we demonstrate a pipeline to distilling hydrologic forecasts to county level for emergency responders with an operational decision support tool: **FLO-NAVSAFE**. By combining short-range forecasts from the **National Water Model (NWM)** with the **Height Above Nearest Drainage (HAND)** method, FLO-NAVSAFE generates **flood inundation maps (FIMs)** for near real-time, 1-, 2-, and 10-hour forecast horizons. Flood inundation uncertainty is addressed through **time-lagged ensembles** of NWM short-range (SR) forecasts, offering both **most-likely** and **worst-case scenarios** to better reflect operational risk.
 
 
 ###  Methodology
