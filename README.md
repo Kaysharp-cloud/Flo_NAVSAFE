@@ -37,12 +37,12 @@ By combining short-range forecasts from the **National Water Model (NWM)** with 
 Flood inundation uncertainty is addressed using **time-lagged ensembles** of NWM short-range forecasts, offering both **most-likely** and **worst-case** scenarios to better reflect operational risk.
 
 
-### 📊 Methodology
+###  Methodology
 
 ![Methodology Diagram](Images/Methodology.jpg)
 
 ---
 
-### 👥 Project Team
+###  Project Team
 
-![Team Photo](Images/Meet the Team.jpg)
+![Team Photo](Images/Meet_the_Team.jpg)
