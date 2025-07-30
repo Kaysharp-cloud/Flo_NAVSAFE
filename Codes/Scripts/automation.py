@@ -8,8 +8,8 @@ duration = timedelta(days=20)
 end = start + duration
 
 # Paths to Python scripts and executables
-forecast_script = r"C:\Users\kbadebayo\Documents\ArcGIS\Projects\codes\Forecast_july18.py"
-fim_script = r"C:\Users\kbadebayo\Documents\ArcGIS\Projects\codes\Fim_July18.py"
+forecast_script = r"C:\Users\kbadebayo\Documents\ArcGIS\Projects\codes\get_nwm_sr_forecast.py"
+fim_script = r"C:\Users\kbadebayo\Documents\ArcGIS\Projects\codes\FIM_generation.py"
 arcgis_python = r"C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3\python.exe"
 
 hour_count = 1
